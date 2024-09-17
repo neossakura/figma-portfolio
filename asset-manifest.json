@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/figma-portfolio/static/css/main.05d44e29.css",
-    "main.js": "/figma-portfolio/static/js/main.d564a6fe.js",
-    "static/media/python.png": "/figma-portfolio/static/media/python.4f5f52c67194dc46e313.png",
-    "static/media/profile.png": "/figma-portfolio/static/media/profile.5d34e1c577857ca4160e.png",
-    "static/media/project2.jpg": "/figma-portfolio/static/media/project2.5fae296d371cc56cd98a.jpg",
-    "static/media/project4.jpg": "/figma-portfolio/static/media/project4.a7b7ed11daa072b234eb.jpg",
-    "static/media/project3.jpg": "/figma-portfolio/static/media/project3.03535c34c110b7ea292b.jpg",
-    "static/media/fl.png": "/figma-portfolio/static/media/fl.05ab293e4fa52ec99fe8.png",
-    "static/media/project5.jpg": "/figma-portfolio/static/media/project5.f78aa3fd070fc4dd0bd1.jpg",
-    "static/media/project6.jpg": "/figma-portfolio/static/media/project6.a22c939898d6c4613b65.jpg",
-    "index.html": "/figma-portfolio/index.html",
-    "main.05d44e29.css.map": "/figma-portfolio/static/css/main.05d44e29.css.map",
-    "main.d564a6fe.js.map": "/figma-portfolio/static/js/main.d564a6fe.js.map"
+    "main.css": "/static/css/main.05d44e29.css",
+    "main.js": "/static/js/main.6a977bc8.js",
+    "static/media/python.png": "/static/media/python.4f5f52c67194dc46e313.png",
+    "static/media/profile.png": "/static/media/profile.5d34e1c577857ca4160e.png",
+    "static/media/project2.jpg": "/static/media/project2.5fae296d371cc56cd98a.jpg",
+    "static/media/project4.jpg": "/static/media/project4.a7b7ed11daa072b234eb.jpg",
+    "static/media/project3.jpg": "/static/media/project3.03535c34c110b7ea292b.jpg",
+    "static/media/fl.png": "/static/media/fl.05ab293e4fa52ec99fe8.png",
+    "static/media/project5.jpg": "/static/media/project5.f78aa3fd070fc4dd0bd1.jpg",
+    "static/media/project6.jpg": "/static/media/project6.a22c939898d6c4613b65.jpg",
+    "index.html": "/index.html",
+    "main.05d44e29.css.map": "/static/css/main.05d44e29.css.map",
+    "main.6a977bc8.js.map": "/static/js/main.6a977bc8.js.map"
   },
   "entrypoints": [
     "static/css/main.05d44e29.css",
-    "static/js/main.d564a6fe.js"
+    "static/js/main.6a977bc8.js"
   ]
 }
